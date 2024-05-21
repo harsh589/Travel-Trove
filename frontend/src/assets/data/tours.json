@@ -1,0 +1,374 @@
+[
+  {
+    "title": "Manali",
+    "city": "Manali",
+    "address": "Himachal Pradesh",
+    "distance": 500,
+    "price": 8000,
+    "maxGroupSize": 25,
+    "desc": "Manali is synonymous with scintillating India tours, encompassing romantic honeymoons, camping, hiking, skiing at the Solang Valley and trekking at the Parvati Valley. It is also famous for rafting, paragliding and other adventure activities. The snow-capped mountains, a raft of popular eateries and cafes and of course, its uniquely vibrant nightlife make a Manali trip worthwhile. Best time to visit: March to June",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img01.jpg",
+    "featured": true
+  },
+  {
+    "title": "Rishikesh",
+    "city": "Rishikesh",
+    "address": "Somewhere",
+    "distance": 250,
+    "price": 6000,
+    "maxGroupSize":20,
+    "desc": "Rishikesh, also known as the “place of sagas” is a spiritual town situated 24 kms upstream from Haridwar, at the confluence of the Chandrabhaga and Ganga. It is believed that God by the name of “Hrishikesh” had appeared as an answer to the hard penances by Rabhiya Rishi and henceforth the place derived its name The best time to visit Rishikesh, India is between September and March",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img02.jpg",
+    "featured": true
+  },
+  {
+    "title": "Jaipur",
+    "city": "Jaipur",
+    "address": "Somewhere",
+    "distance": 500,
+    "price": 5000,
+    "maxGroupSize": 15,
+    "desc": "this is the description",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img03.jpg",
+    "featured": true
+  },
+  {
+    "title": "Goa",
+    "city": "Goa",
+    "address": "Somewhere ",
+    "distance": 500,
+    "price": 12000,
+    "maxGroupSize": 8,
+    "desc": "this is the description",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img04.jpg",
+    "featured": true
+  },
+  {
+    "title": "Kasol",
+    "city": "Kasol",
+    "address": "Somewhere",
+    "distance": 500,
+    "price": 6000,
+    "maxGroupSize": 12,
+    "desc": "this is the description",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img05.jpg",
+    "featured": true
+  },
+  {
+    "title": "Spiti Valley",
+    "city": "Spiti Valley",
+    "address": "Somewhere",
+    "distance": 500,
+    "price": 8000,
+    "maxGroupSize": 8,
+    "desc": "this is the description",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img06.jpg",
+    "featured": true
+  },
+  {
+    "title": "Dalhousie",
+    "city": "Paris",
+    "address": "Dalhousie",
+    "distance": 500,
+    "price": 4000,
+    "maxGroupSize": 10,
+    "desc": "this is the description",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img07.jpg",
+    "featured": true
+  },
+  {
+    "title": "Shimla",
+    "city": "Shimla",
+    "address": "Somewhere ",
+    "distance": 500,
+    "price": 8000,
+    "maxGroupSize": 14,
+    "desc": "this is the description",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img08.jpg",
+    "featured": true
+  },
+  {
+    "title": "mussoorie",
+    "city": "mussoorie",
+    "address": "Somewhere",
+    "distance": 100,
+    "price": 5000,
+    "maxGroupSize": 10,
+    "desc": "this is the description",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img010.jpg",
+    "featured": false
+  },
+  {
+    "title": "Haridwar",
+    "city": "Haridwar",
+    "address": "Somewhere",
+    "distance": 500,
+    "price": 4000,
+    "maxGroupSize":20,
+    "desc": "this is the description",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img09.jpg",
+    "featured": false
+  },
+
+  
+    {
+      "title": "Kashmir",
+      "city": "Kashmir",
+      "address": "Somewhere",
+      "distance": 600,
+      "price": 8000,
+      "maxGroupSize":10,
+      "desc": "this is the description",
+      "reviews": [],
+  
+      "photo": "/tour-images/tour-img11.jpg",
+      "featured": false
+    },
+    {
+      
+        "title": "Sikkim",
+        "city": "Sikkim",
+        "address": "Somewhere",
+        "distance": 1000,
+        "price": 10000,
+        "maxGroupSize":10,
+        "desc": "this is the description",
+        "reviews": [],
+    
+        "photo": "/tour-images/tour-img12.jpg",
+        "featured": false
+      
+    }
+ ,
+  {
+      
+    "title": "Bir",
+    "city": "Bir",
+    "address": "Somewhere",
+    "distance": 1000,
+    "price": 10000,
+    "maxGroupSize":10,
+    "desc": "this is the description",
+    "reviews": [],
+
+    "photo": "/tour-images/tour-img13.jpg",
+    "featured": false
+  
+},
+
+
+
+
+{
+      
+  "title": "Ladakh",
+  "city": "Ladakh",
+  "address": "Somewhere",
+  "distance": 1000,
+  "price": 10000,
+  "maxGroupSize":10,
+  "desc": "this is the description",
+  "reviews": [],
+
+  "photo": "/tour-images/tour-img15.jpg",
+  "featured": false
+
+}
+
+,
+
+{
+      
+  "title": "Dharamshala",
+  "city": "Dharamshala",
+  "address": "Somewhere",
+  "distance": 1000,
+  "price": 10000,
+  "maxGroupSize":10,
+  "desc": "this is the description",
+  "reviews": [],
+
+  "photo": "/tour-images/tour-img14.jpg",
+  "featured": false
+
+},
+{
+      
+  "title": "Lavasa",
+  "city": "Lavasa",
+  "address": "Somewhere",
+  "distance": 1000,
+  "price": 10000,
+  "maxGroupSize":10,
+  "desc": "this is the description",
+  "reviews": [],
+
+  "photo": "/tour-images/tour-img16.jpg",
+  "featured": false
+
+}
+,
+{
+      
+  "title": "Shillong",
+  "city": "Shillong",
+  "address": "Somewhere",
+  "distance": 1000,
+  "price": 10000,
+  "maxGroupSize":10,
+  "desc": "this is the description",
+  "reviews": [],
+
+  "photo": "/tour-images/tour-img17.jpg",
+  "featured": false
+
+}
+
+,{
+      
+  "title": "Darjeeling",
+  "city": "Darjeeling",
+  "address": "Somewhere",
+  "distance": 1000,
+  "price": 10000,
+  "maxGroupSize":10,
+  "desc": "this is the description",
+  "reviews": [],
+
+  "photo": "/tour-images/tour-img18.jpg",
+  "featured": false
+
+},
+{
+      
+  "title": "Lakshadweep",
+  "city": "Lakshadweep",
+  "address": "Lakshadweep",
+  "distance": 3000,
+  "price": 50000,
+  "maxGroupSize":10,
+  "desc": "Lakshadweep is India's smallest Union Territory, consisting of 36 islands and islets spread across 32 square kilometers of the Arabian Sea. The islands are located 140–270 miles off the Malabar Coast of mainland India, between the Laccadive Sea to the east and the Arabian Sea to the west. The islands are divided into three groups: the Laccadive Islands in the middle, the Amindivi Islands in the north, and the Minicoy atoll in the south.",
+  "reviews": [],
+
+  "photo": "/tour-images/tour-img19.jpg",
+  "featured": false
+
+},
+
+{
+      
+  "title": "Andaman and Nicobar",
+  "city": "Andaman and Nicobar",
+  "address": "Andaman and Nicobar",
+  "distance": 2500,
+  "price": 40000,
+  "maxGroupSize":25,
+  "desc": "The Andaman and Nicobar Islands are a group of islands located in the southeastern part of the Bay of Bengal, between India to the west and Myanmar (Burma) and Thailand to the east. These islands are part of India and are divided into two groups: the Andaman Islands to the north and the Nicobar Islands to the south. Here are some key details about the Andaman and Nicobar Islands",
+  "reviews": [],
+
+  "photo": "/tour-images/tour-img20.jpg",
+  "featured": false
+
+},
+{
+      
+  "title": "Kerala",
+  "city": "Kerala",
+  "address": "Kerala",
+  "distance": 2500,
+  "price": 20000,
+  "maxGroupSize":25,
+  "desc": "Kerala, located on the southwestern coast of India, is renowned for its lush landscapes, unique culture, and impressive social indicators. This state, bordered by the Arabian Sea to the west and the Western Ghats to the east, boasts a tropical climate with abundant monsoon rains. Known as God's Own Country, Kerala's geography features coastal plains, rolling hills, and an intricate network of backwaters, making it a popular destination for tourism",
+  "reviews": [],
+
+  "photo": "/tour-images/tour-img21.jpg",
+  "featured": false
+
+},
+{
+      
+  "title": "Mumbai",
+  "city": "Mumbai",
+  "address": "Maharashtra",
+  "distance": 1400,
+  "price": 20000,
+  "maxGroupSize":25,
+  "desc": "Mumbai, also known as Bombay, is the capital city of the Indian state of Maharashtra and the financial, commercial, and entertainment capital of India. Situated on the western coast of India, Mumbai is a bustling metropolis that epitomizes the country's vibrant energy and diverse culture. The city is characterized by its stunning skyline, bustling streets, and a mix of modern skyscrapers alongside colonial-era architecture. Mumbai is not only the wealthiest city in India but also one of the most populous, serving as a melting pot of cultures, languages, and cuisines",
+  "reviews": [],
+
+  "photo": "/tour-images/tour-img22.jpg",
+  "featured": false
+
+},
+{
+      
+  "title": "Nainital",
+  "city": "Nainital",
+  "address": "Uttarakhand",
+  "distance": 320,
+  "price": 6000,
+  "maxGroupSize":25,
+  "desc": "Nainital is a picturesque hill station nestled in the Kumaon region of the Indian state of Uttarakhand. Situated around a beautiful, pear-shaped lake known as Naini Lake, the town is surrounded by lush green hills that provide a serene and tranquil atmosphere. The town's colonial heritage is evident in its architecture, with charming colonial-era buildings dotting the landscape. Nainital is a popular tourist destination, especially during the summer months when people flock here to escape the scorching heat of the plains",
+  "reviews": [],
+
+  "photo": "/tour-images/tour-img23.jpg",
+  "featured": false
+
+},
+
+{
+      
+  "title": "Tehri",
+  "city": "Tehri",
+  "address": "Uttarakhand",
+  "distance": 320,
+  "price": 6000,
+  "maxGroupSize":25,
+  "desc": "Tehri, located in the Indian state of Uttarakhand, is renowned for its scenic beauty, rich cultural heritage, and historical significance. Nestled amidst the majestic Himalayas, Tehri boasts a diverse landscape ranging from lush green valleys to towering snow-capped peaks. The region is famed for the Tehri Dam, one of the tallest dams in the world and a symbol of modern engineering marvel. Besides its engineering prowess, Tehri Dam also forms the Tehri Lake, a vast reservoir offering opportunities for water sports and leisure activities",
+  "reviews": [],
+
+  "photo": "/tour-images/tour-img24.jpg",
+  "featured": false
+
+},
+{
+      
+  "title": "Delhi",
+  "city": "Delhi",
+  "address": "Delhi",
+  "distance": 0,
+  "price": 7000,
+  "maxGroupSize":25,
+  "desc": "Delhi, the capital territory of India, is a vibrant and dynamic metropolis that seamlessly blends its rich historical heritage with modernity. Situated in the northern part of the country, Delhi is a melting pot of diverse cultures, languages, and traditions. The city is divided into two distinct parts: Old Delhi, with its labyrinthine lanes, bustling markets, and Mughal-era monuments such as the Red Fort and Jama Masjid, and New Delhi, characterized by wide avenues, government buildings, and diplomatic enclaves designed by British architects during colonial rule. As the political, cultural, and commercial heart of India, Delhi pulsates with energy, offering a plethora of attractions ranging from ancient temples and mosques to contemporary art galleries and luxury shopping malls. ",
+  "reviews": [],
+
+  "photo": "/tour-images/tour-img25.jpg",
+  "featured": false
+
+}
+
+
+
+
+ 
+]
